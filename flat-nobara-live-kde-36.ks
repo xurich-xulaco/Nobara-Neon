@@ -479,6 +479,7 @@ kde-connect
 spectacle
 kcalc
 kwrite
+plasma-discover
 apparmor-utils
 apparmor-parser
 aajohan-comfortaa-fonts
