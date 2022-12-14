@@ -413,8 +413,8 @@ EOF
 @printing
 @standard
 @x86-baremetal-tools
-@"base-x"
-@"Common NetworkManager Submodules"
+@base-x
+@networkmanager-submodules
 bluedevil
 breeze-gtk
 breeze-icon-theme
@@ -427,7 +427,7 @@ kcm_systemd
 kde-gtk-config
 kde-partitionmanager
 kde-print-manager
--kde-settings-pulseaudio
+kde-settings-pulseaudio
 kde-style-breeze
 kdegraphics-thumbnailers
 kdeplasma-addons
@@ -613,7 +613,8 @@ tcp_wrappers-libs.x86_64
 tcp_wrappers-libs.i686
 unixODBC.x86_64
 unixODBC.i686
-vim
+-vim
+nano
 vkBasalt.x86_64
 vkBasalt.i686
 python3-vapoursynth
@@ -639,6 +640,7 @@ gcc-gfortran
 -rocm-core
 okular
 kate
+qbittorrent
 dnfdaemon
 yumex-dnf
 nobara-welcome
@@ -746,7 +748,7 @@ papirus-icon-theme
 -qgpgme
 -qtkeychain-qt5
 -libadwaita-qt6
--kwrite
+kwrite
 -hipsparse
 -rocfft
 -rocprim
