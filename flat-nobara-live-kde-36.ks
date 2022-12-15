@@ -403,7 +403,7 @@ EOF
 %packages
 -@^kde-desktop-environment
 @anaconda-tools
--@firefox
+@firefox
 @fonts
 @guest-desktop-agents
 @hardware-support
