@@ -644,6 +644,7 @@ kate
 qbittorrent
 dnfdaemon
 yumex-dnf
+-dnfdragora
 nobara-welcome
 auto-cpufreq
 unrar
